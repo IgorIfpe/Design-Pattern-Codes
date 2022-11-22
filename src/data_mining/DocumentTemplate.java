@@ -1,0 +1,17 @@
+package data_mining;
+
+public abstract class DocumentTemplate {
+	
+	abstract void openFile();
+	abstract void closeFile();
+	abstract void extract();
+	abstract void convertFile();
+	
+	public void analyzeData() {
+		System.out.println("Data was analyzed !");
+	}
+	
+	public void sendReports() {
+		System.out.println("Reports was sended.");
+	}
+}
