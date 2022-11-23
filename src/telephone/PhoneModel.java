@@ -16,4 +16,21 @@ public class PhoneModel {
     public List<Integer> getDigits() {
         return digits;
     }
+    
+    public Integer getLastNumber() {
+    	return digits.get(digits.size() - 1);
+    }
+    
+    @Override
+	public String toString() {
+		return "Agora discando " + this.getDigitsToString();
+	}
+    
+    private String getDigitsToString() {
+    	String digitsString = "";
+    	for (Integer digit : digits) {
+    		digitsString += digit;
+    	}
+    	return digitsString;
+    }
 }

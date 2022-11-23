@@ -6,9 +6,12 @@ public class Main {
 
         // Build the object graph
         PhoneModel model = new PhoneModel();
-        Screen screen = new Screen(model);
-        KeyPad keyPad = new KeyPad(model);
-
+        PhoneObserver screen = new Screen(model);
+        PhoneSubject keyPad = new KeyPad(model);
+        
+        // Add observers
+        keyPad.attach(screen);
+        
         // Run the program
         keyPad.simulateKeyPresses(NUM_DIGITS);
     }
