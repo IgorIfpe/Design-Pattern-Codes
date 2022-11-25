@@ -49,5 +49,4 @@ abstract class StoreComponent {
 		}
 		
 		return total;
-	};
-}
+	}}

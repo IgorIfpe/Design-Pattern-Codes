@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_mokwwGzGEe2E7MTGr1KR0Q">
+  <modelElement href="ListExercisesDesignPattern.uml#_iDDXIGzGEe2E7MTGr1KR0Q"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_p_VRMGzGEe2E7MTGr1KR0Q" targetItem="_p_j6sGzGEe2E7MTGr1KR0Q" sourceItem="_p_UDEGzGEe2E7MTGr1KR0Q"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_qA1GAGzGEe2E7MTGr1KR0Q" sourceAnchor="115.0,0.0" targetAnchor="94.0,99.0" superClass="_p_j6sGzGEe2E7MTGr1KR0Q" subClass="_qA4wYGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_i7QxgGzGEe2E7MTGr1KR0Q"/>
+    <bendpoints xmi:id="_qiYT4GzGEe2E7MTGr1KR0Q" sourceY="-30" targetX="30" targetY="80"/>
+    <bendpoints xmi:id="_qiZiAGzGEe2E7MTGr1KR0Q" sourceX="-30" sourceY="-30" targetY="80"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_qBU1QWzGEe2E7MTGr1KR0Q" targetItem="_qBWqcGzGEe2E7MTGr1KR0Q" sourceItem="_qBU1QGzGEe2E7MTGr1KR0Q"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_qBhpkGzGEe2E7MTGr1KR0Q" sourceAnchor="91.0,0.0" targetAnchor="0.0,49.0" target="_p_j6sGzGEe2E7MTGr1KR0Q" source="_qBwTEGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_jApAwGzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_qCYlMGzGEe2E7MTGr1KR0Q" position="150.0,150.0"/>
+    <bendpoints xmi:id="_qiawIGzGEe2E7MTGr1KR0Q" sourceY="-105" targetX="-150"/>
+    <stereotypes xmi:id="_qBo-UGzGEe2E7MTGr1KR0Q" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_jAsEEGzGEe2E7MTGr1KR0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_qBl7AGzGEe2E7MTGr1KR0Q" text="">
+      <visualProperties xmi:id="_qig2wGzGEe2E7MTGr1KR0Q" position="40.49999999999999,1.4999999999999858"/>
+    </nameVisual>
+    <sourceRole xmi:id="_qBnwMGzGEe2E7MTGr1KR0Q" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_jApAwWzGEe2E7MTGr1KR0Q"/>
+      <visualProperties xmi:id="_qidMYGzGEe2E7MTGr1KR0Q" position="-17.5,-46.0"/>
+      <visibility xmi:id="_qBrakWzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qBrakGzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_qBoXQGzGEe2E7MTGr1KR0Q" aggregationKind="NONE" name="cakes" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_i9j3kGzGEe2E7MTGr1KR0Q"/>
+      <visualProperties xmi:id="_qiiE4GzGEe2E7MTGr1KR0Q" position="-44.99999999999997,2.5"/>
+      <visibility xmi:id="_qBsBoWzGEe2E7MTGr1KR0Q" label="-"/>
+      <cardinality xmi:id="_qBsBoGzGEe2E7MTGr1KR0Q" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_qBks4WzGEe2E7MTGr1KR0Q" targetItem="_qBwTEGzGEe2E7MTGr1KR0Q" sourceItem="_qBks4GzGEe2E7MTGr1KR0Q"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_qCLw4GzGEe2E7MTGr1KR0Q" sourceAnchor="213.0,34.0" targetAnchor="94.0,99.0" superClass="_p_j6sGzGEe2E7MTGr1KR0Q" subClass="_qCQpYGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_i7bJkGzGEe2E7MTGr1KR0Q"/>
+    <bendpoints xmi:id="_qibXMGzGEe2E7MTGr1KR0Q" sourceX="40" targetX="-109" targetY="250"/>
+    <bendpoints xmi:id="_qib-QGzGEe2E7MTGr1KR0Q" sourceX="40" sourceY="-170" targetX="-109" targetY="80"/>
+    <bendpoints xmi:id="_qiclUGzGEe2E7MTGr1KR0Q" sourceX="149" sourceY="-170" targetY="80"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_p_UDEGzGEe2E7MTGr1KR0Q" sourceConnectionVisual="_p_VRMGzGEe2E7MTGr1KR0Q" text="Cake bake class." item="_p_j6sGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_i_ysMGzGEe2E7MTGr1KR0Q"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_qBU1QGzGEe2E7MTGr1KR0Q" sourceConnectionVisual="_qBU1QWzGEe2E7MTGr1KR0Q" text="Create an order and print it" item="_qBWqcGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_i_1IcGzGEe2E7MTGr1KR0Q"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_qBks4GzGEe2E7MTGr1KR0Q" sourceConnectionVisual="_qBks4WzGEe2E7MTGr1KR0Q" text="Store a collection of cakes being ordered by a customer" item="_qBwTEGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_i_2WkGzGEe2E7MTGr1KR0Q"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_p_j6sGzGEe2E7MTGr1KR0Q" comments="_p_UDEGzGEe2E7MTGr1KR0Q" targetConnectionVisual="_p_VRMGzGEe2E7MTGr1KR0Q" name="Cake" abstractClass="true" associationsIn="_qBhpkGzGEe2E7MTGr1KR0Q" subclassedBy="_qA1GAGzGEe2E7MTGr1KR0Q _qCLw4GzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_iWBWcGzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_p_j6sWzGEe2E7MTGr1KR0Q" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_p_j6smzGEe2E7MTGr1KR0Q" label="+"/>
+    <attributes xmi:id="_p_j6s2zGEe2E7MTGr1KR0Q" defaultValue="10" name="CAKE_COST">
+      <modelElement href="ListExercisesDesignPattern.uml#_i9fmIGzGEe2E7MTGr1KR0Q"/>
+      <stereotypes xmi:id="_p_j6tGzGEe2E7MTGr1KR0Q" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_i9iCYGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_p_j6tWzGEe2E7MTGr1KR0Q" label="-"/>
+      <cardinality xmi:id="_p_j6tmzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_p_j6t2zGEe2E7MTGr1KR0Q" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_p_j6uGzGEe2E7MTGr1KR0Q" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_iWOKwGzGEe2E7MTGr1KR0Q"/>
+      <visibility xmi:id="_p_j6uWzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_p_j6umzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_p_j6u2zGEe2E7MTGr1KR0Q">
+        <modelElement href="ListExercisesDesignPattern.uml#_iWYi0GzGEe2E7MTGr1KR0Q"/>
+        <type xmi:id="_p_j6vGzGEe2E7MTGr1KR0Q" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_p_j6vWzGEe2E7MTGr1KR0Q" abstractOperation="true" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_iWepcGzGEe2E7MTGr1KR0Q"/>
+      <visibility xmi:id="_p_j6vmzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_p_j6v2zGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_p_j6wGzGEe2E7MTGr1KR0Q">
+        <modelElement href="ListExercisesDesignPattern.uml#_iWkJAGzGEe2E7MTGr1KR0Q"/>
+        <type xmi:id="_p_j6wWzGEe2E7MTGr1KR0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_qA4wYGzGEe2E7MTGr1KR0Q" name="ChocolateCake" generalizations="_qA1GAGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_iXYBUGzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_qA4wYWzGEe2E7MTGr1KR0Q" position="59.0,259.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_qA4wYmzGEe2E7MTGr1KR0Q" label="+"/>
+    <operations xmi:id="_qA4wY2zGEe2E7MTGr1KR0Q" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_iXpHEGzGEe2E7MTGr1KR0Q"/>
+      <stereotypes xmi:id="_qA4wZGzGEe2E7MTGr1KR0Q" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_iXv0wGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <stereotypes xmi:id="_qA4wZWzGEe2E7MTGr1KR0Q" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_iYI2UGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_qA4wZmzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qA4wZ2zGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_qA4waGzGEe2E7MTGr1KR0Q">
+        <modelElement href="ListExercisesDesignPattern.uml#_iXqVMGzGEe2E7MTGr1KR0Q"/>
+        <type xmi:id="_qA4waWzGEe2E7MTGr1KR0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_qBWqcGzGEe2E7MTGr1KR0Q" comments="_qBU1QGzGEe2E7MTGr1KR0Q" targetConnectionVisual="_qBU1QWzGEe2E7MTGr1KR0Q" name="Main">
+    <modelElement href="ListExercisesDesignPattern.uml#_iYTOYGzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_qBWqcWzGEe2E7MTGr1KR0Q" position="70.0,384.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_qBWqcmzGEe2E7MTGr1KR0Q" label="+"/>
+    <operations xmi:id="_qBWqc2zGEe2E7MTGr1KR0Q" name="main" staticOperation="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_iYc_YGzGEe2E7MTGr1KR0Q"/>
+      <visibility xmi:id="_qBWqdGzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qBWqdWzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_qBWqdmzGEe2E7MTGr1KR0Q" name="args">
+        <modelElement href="ListExercisesDesignPattern.uml#_iYdmcGzGEe2E7MTGr1KR0Q"/>
+        <cardinality xmi:id="_qBWqd2zGEe2E7MTGr1KR0Q" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_qBWqeGzGEe2E7MTGr1KR0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_qBwTEGzGEe2E7MTGr1KR0Q" comments="_qBks4GzGEe2E7MTGr1KR0Q" targetConnectionVisual="_qBks4WzGEe2E7MTGr1KR0Q" name="Order" associationsOut="_qBhpkGzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_iZdE8GzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_qBwTEWzGEe2E7MTGr1KR0Q" position="-191.0,204.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_qBwTEmzGEe2E7MTGr1KR0Q" label="+"/>
+    <attributes xmi:id="_qBwTE2zGEe2E7MTGr1KR0Q" defaultValue="new ArrayList&lt;>()" name="cakes">
+      <modelElement href="ListExercisesDesignPattern.uml#_i9j3kGzGEe2E7MTGr1KR0Q"/>
+      <stereotypes xmi:id="_qBwTFGzGEe2E7MTGr1KR0Q" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_i9lswGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_qBwTFWzGEe2E7MTGr1KR0Q" label="-"/>
+      <cardinality xmi:id="_qBwTFmzGEe2E7MTGr1KR0Q" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_qBwTF2zGEe2E7MTGr1KR0Q" name="Cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_iWBWcGzGEe2E7MTGr1KR0Q"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_qBwTGGzGEe2E7MTGr1KR0Q" name="printOrder">
+      <modelElement href="ListExercisesDesignPattern.uml#_iZndAGzGEe2E7MTGr1KR0Q"/>
+      <visibility xmi:id="_qBwTGWzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qBwTGmzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_qBwTG2zGEe2E7MTGr1KR0Q" name="addCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_i7ZUYGzGEe2E7MTGr1KR0Q"/>
+      <visibility xmi:id="_qBwTHGzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qBwTHWzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_qBwTHmzGEe2E7MTGr1KR0Q" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_i7Z7cGzGEe2E7MTGr1KR0Q"/>
+        <cardinality xmi:id="_qBwTH2zGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_qBwTIGzGEe2E7MTGr1KR0Q" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_iWBWcGzGEe2E7MTGr1KR0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_qCQpYGzGEe2E7MTGr1KR0Q" name="VanillaCake" generalizations="_qCLw4GzGEe2E7MTGr1KR0Q">
+    <modelElement href="ListExercisesDesignPattern.uml#_iaOhAGzGEe2E7MTGr1KR0Q"/>
+    <visualProperties xmi:id="_qCRQcGzGEe2E7MTGr1KR0Q" position="-218.0,365.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_qCRQcWzGEe2E7MTGr1KR0Q" label="+"/>
+    <operations xmi:id="_qCRQcmzGEe2E7MTGr1KR0Q" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_iaV1wGzGEe2E7MTGr1KR0Q"/>
+      <stereotypes xmi:id="_qCRQc2zGEe2E7MTGr1KR0Q" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_ibfFQGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <stereotypes xmi:id="_qCRQdGzGEe2E7MTGr1KR0Q" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_ibg6cGzGEe2E7MTGr1KR0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_qCRQdWzGEe2E7MTGr1KR0Q" label="+"/>
+      <cardinality xmi:id="_qCRQdmzGEe2E7MTGr1KR0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_qCRQd2zGEe2E7MTGr1KR0Q">
+        <modelElement href="ListExercisesDesignPattern.uml#_ibdQEGzGEe2E7MTGr1KR0Q"/>
+        <type xmi:id="_qCRQeGzGEe2E7MTGr1KR0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
