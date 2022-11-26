@@ -1,6 +1,6 @@
 package bakery;
 
-public class ChocolateCake extends Cake {
+public class ChocolateCake extends DecoratorCake {
     @Override
     public String getDescription() {
         return "Chocolate cake";
