@@ -1,8 +1,22 @@
 package bakery;
 
 public class VanillaCake extends DecoratorCake {
-    @Override
+    
+	public VanillaCake() {
+		super();
+	}
+	
+	public VanillaCake(Cake cake) {
+		super(cake);
+	}
+
+	@Override
     public String getDescription() {
-        return "Vanilla cake";
+        return cake.getDescription() + "Vanilla cake ";
     }
+	
+	@Override
+	public int getCost() {
+		return cake.getCost() + super.getCost();
+	}
 }
