@@ -3,7 +3,7 @@ package orders;
 import java.util.ArrayList;
 import java.util.List;
 
-abstract class StoreComponent {
+public abstract class StoreComponent {
 	
 	private String name;
 	private Double value;

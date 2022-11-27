@@ -29,4 +29,11 @@ public class PDF extends DocumentTemplate {
 		System.out.println("Document .csv was converted.");
 	}
 
+	public String getPath() {
+		return path;
+	}
+
+	public void setPath(String path) {
+		this.path = path;
+	}
 }
