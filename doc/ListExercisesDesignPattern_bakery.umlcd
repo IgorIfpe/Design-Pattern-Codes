@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_0hSU4G32Ee2ONpjCtn835A">
+  <modelElement href="ListExercisesDesignPattern.uml#_0ZqC4G32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_0yrm4G32Ee2ONpjCtn835A" targetItem="_0yuqMG32Ee2ONpjCtn835A" sourceItem="_0yq_0G32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_0y_v8G32Ee2ONpjCtn835A" sourceAnchor="150.0,0.0" targetAnchor="189.0,49.0" target="_0yuqMG32Ee2ONpjCtn835A" source="_0zMkQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dNGIG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0z8yMG32Ee2ONpjCtn835A" position="250.0,250.0"/>
+    <bendpoints xmi:id="_05MekW32Ee2ONpjCtn835A" sourceY="-105" targetX="225"/>
+    <stereotypes xmi:id="_0zDaUW32Ee2ONpjCtn835A" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dNGIm32Ee2ONpjCtn835A"/>
+    </stereotypes>
+    <nameVisual xmi:id="_0zCzQG32Ee2ONpjCtn835A" text="">
+      <visualProperties xmi:id="_05UaYG32Ee2ONpjCtn835A" position="-77.49999999999977,1.4999999999999858"/>
+    </nameVisual>
+    <sourceRole xmi:id="_0zCzQW32Ee2ONpjCtn835A" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dNGIW32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_05R-Im32Ee2ONpjCtn835A" position="-15.499999999999773,-63.5"/>
+      <visibility xmi:id="_0zI54G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zIS0G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_0zDaUG32Ee2ONpjCtn835A" aggregationKind="NONE" name="cake" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cvzIG32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_05VBcG32Ee2ONpjCtn835A" position="1.0,-46.5"/>
+      <visibility xmi:id="_0zKIAG32Ee2ONpjCtn835A" label="#"/>
+      <cardinality xmi:id="_0zJg8G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zA-EG32Ee2ONpjCtn835A" sourceAnchor="180.0,0.0" targetAnchor="189.0,19.0" superClass="_0yuqMG32Ee2ONpjCtn835A" subClass="_0zMkQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cWKg232Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05NFoG32Ee2ONpjCtn835A" sourceY="-135" targetX="255"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zCMMG32Ee2ONpjCtn835A" sourceAnchor="152.0,0.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0y3NEG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cVjdG32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05MekG32Ee2ONpjCtn835A" sourceY="-31" targetX="601"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_0zVHIG32Ee2ONpjCtn835A" targetItem="_0zW8UG32Ee2ONpjCtn835A" sourceItem="_0zUgEG32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zZ_oG32Ee2ONpjCtn835A" sourceAnchor="0.0,13.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0zdqAG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cWxkW32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05NssG32Ee2ONpjCtn835A" sourceX="-405" targetX="29" targetY="380"/>
+    <bendpoints xmi:id="_05NssW32Ee2ONpjCtn835A" sourceX="-405" sourceY="-380" targetX="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_0ziigG32Ee2ONpjCtn835A" sourceAnchor="0.0,36.0" targetAnchor="94.0,99.0" target="_0yuqMG32Ee2ONpjCtn835A" source="_0zll0G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dNtMG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0z8yMW32Ee2ONpjCtn835A" position="270.0,270.0"/>
+    <bendpoints xmi:id="_05O60G32Ee2ONpjCtn835A" sourceX="-230" targetY="226"/>
+    <stereotypes xmi:id="_0zjwom32Ee2ONpjCtn835A" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dNtMm32Ee2ONpjCtn835A"/>
+    </stereotypes>
+    <nameVisual xmi:id="_0zjJkm32Ee2ONpjCtn835A" text="">
+      <visualProperties xmi:id="_05XdsG32Ee2ONpjCtn835A" position="-43.50000000000003,-121.24999999999989"/>
+    </nameVisual>
+    <sourceRole xmi:id="_0zjwoG32Ee2ONpjCtn835A" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dNtMW32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_05WPkG32Ee2ONpjCtn835A" position="-15.999999999999773,2.5"/>
+      <visibility xmi:id="_0zkXsW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zkXsG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_0zjwoW32Ee2ONpjCtn835A" aggregationKind="NONE" name="cakes" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cxBQG32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_05YEwG32Ee2ONpjCtn835A" position="2.5,1.0000000000000284"/>
+      <visibility xmi:id="_0zkXs232Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0zkXsm32Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_0zjJkW32Ee2ONpjCtn835A" targetItem="_0zll0G32Ee2ONpjCtn835A" sourceItem="_0zjJkG32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zpQMG32Ee2ONpjCtn835A" sourceAnchor="0.0,68.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0zsTgG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cYmw232Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05Ph4G32Ee2ONpjCtn835A" sourceX="-52" targetX="29" targetY="84"/>
+    <bendpoints xmi:id="_05Ph4W32Ee2ONpjCtn835A" sourceX="-52" sourceY="-84" targetX="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zv94G32Ee2ONpjCtn835A" sourceAnchor="0.0,55.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0zxMAG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cZN0G32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05QI8G32Ee2ONpjCtn835A" sourceX="-29" targetX="29" targetY="274"/>
+    <bendpoints xmi:id="_05QI8W32Ee2ONpjCtn835A" sourceX="-29" sourceY="-274" targetX="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0zzoQG32Ee2ONpjCtn835A" sourceAnchor="0.0,55.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0z1dcG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cZN1m32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05QwAG32Ee2ONpjCtn835A" sourceX="-88" targetX="29" targetY="450"/>
+    <bendpoints xmi:id="_05RXEG32Ee2ONpjCtn835A" sourceX="-88" sourceY="-450" targetX="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_0z35sG32Ee2ONpjCtn835A" sourceAnchor="0.0,68.0" targetAnchor="300.0,36.0" superClass="_0zMkQG32Ee2ONpjCtn835A" subClass="_0z5H0G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cZ05m32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_05R-IG32Ee2ONpjCtn835A" sourceX="-150" targetX="29" targetY="649"/>
+    <bendpoints xmi:id="_05R-IW32Ee2ONpjCtn835A" sourceX="-150" sourceY="-649" targetX="29"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_0yq_0G32Ee2ONpjCtn835A" sourceConnectionVisual="_0yrm4G32Ee2ONpjCtn835A" text="Cake bake class." item="_0yuqMG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dHmkG32Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_0zUgEG32Ee2ONpjCtn835A" sourceConnectionVisual="_0zVHIG32Ee2ONpjCtn835A" text="Create an order and print it" item="_0zW8UG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dINoG32Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_0zjJkG32Ee2ONpjCtn835A" sourceConnectionVisual="_0zjJkW32Ee2ONpjCtn835A" text="Store a collection of cakes being ordered by a customer" item="_0zll0G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dINoW32Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0yuqMG32Ee2ONpjCtn835A" comments="_0yq_0G32Ee2ONpjCtn835A" targetConnectionVisual="_0yrm4G32Ee2ONpjCtn835A" name="Cake" abstractClass="true" associationsIn="_0y_v8G32Ee2ONpjCtn835A _0ziigG32Ee2ONpjCtn835A" subclassedBy="_0zA-EG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0yuqMW32Ee2ONpjCtn835A" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0yuqMm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0yuqM232Ee2ONpjCtn835A" defaultValue="10" name="CAKE_COST">
+      <modelElement href="ListExercisesDesignPattern.uml#_0culAG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0yuqNG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cvMEW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0yuqNW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0yuqNm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_0yuqN232Ee2ONpjCtn835A" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0yuqOG32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aaQ0G32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_0yuqOW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0yuqOm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0yuqO232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aaQ0W32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0yuqPG32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0yuqPW32Ee2ONpjCtn835A" abstractOperation="true" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aa34G32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_0yuqPm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0yuqP232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0yuqQG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aa34W32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0yuqQW32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0y3NEG32Ee2ONpjCtn835A" name="ChocolateCake" generalizations="_0zCMMG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0abe8G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0y3NEW32Ee2ONpjCtn835A" position="1063.0,271.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0y3NEm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_0y3NE232Ee2ONpjCtn835A" name="ChocolateCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0acGAG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0y3NFG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0y3NFW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0y3NFm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0y3NF232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0acGA232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0y3NGG32Ee2ONpjCtn835A" name="ChocolateCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0abe8G32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0y3NGW32Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0acGBG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0y3NGm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0actEW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0y3NG232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0actEm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0y3NHG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0y3NHW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0y3NHm32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0actEG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0y3NH232Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0y3NIG32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0adUIG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0y3NIW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ad7MG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0y3NIm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ad7MW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0y3NI232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0y3NJG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0y3NJW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0adUIW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0y3NJm32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0y3NJ232Ee2ONpjCtn835A" name="ChocolateCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cU8YG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0y3NKG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0y3NKW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0y3NKm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0y3NK232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cVjc232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0y30IG32Ee2ONpjCtn835A" name="ChocolateCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0abe8G32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0y30IW32Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cVjcG32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0y30Im32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0y30I232Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zMkQG32Ee2ONpjCtn835A" name="DecoratorCake" abstractClass="true" associationsOut="_0y_v8G32Ee2ONpjCtn835A" generalizations="_0zA-EG32Ee2ONpjCtn835A" subclassedBy="_0zCMMG32Ee2ONpjCtn835A _0zZ_oG32Ee2ONpjCtn835A _0zpQMG32Ee2ONpjCtn835A _0zv94G32Ee2ONpjCtn835A _0zzoQG32Ee2ONpjCtn835A _0z35sG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0aeiQG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zNLUG32Ee2ONpjCtn835A" position="314.0,204.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zNLUW32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0zNLUm32Ee2ONpjCtn835A" name="cake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cvzIG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zNLU232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cvzIW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zNLVG32Ee2ONpjCtn835A" label="#"/>
+      <cardinality xmi:id="_0zNLVW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_0zNLVm32Ee2ONpjCtn835A" name="Cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0zNLV232Ee2ONpjCtn835A" name="DecoratorCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0afJUG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zNLWG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zNLWW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zNLWm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zNLW232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0afJU232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zNLXG32Ee2ONpjCtn835A" name="DecoratorCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aeiQG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zNLXW32Ee2ONpjCtn835A" name="DecoratorCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cVjdW32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zNLXm32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zNLX232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zNLYG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zNLYW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cWKgm32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zNLYm32Ee2ONpjCtn835A" name="DecoratorCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aeiQG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0zNLY232Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cVjdm32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zNLZG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0zNLZW32Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zW8UG32Ee2ONpjCtn835A" comments="_0zUgEG32Ee2ONpjCtn835A" targetConnectionVisual="_0zVHIG32Ee2ONpjCtn835A" name="Main">
+    <modelElement href="ListExercisesDesignPattern.uml#_0agXcG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zW8UW32Ee2ONpjCtn835A" position="1120.0,465.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zW8Um32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_0zW8U232Ee2ONpjCtn835A" name="main" staticOperation="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0ag-gG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_0zW8VG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zW8VW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_0zW8Vm32Ee2ONpjCtn835A" name="args">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ag-gW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zW8V232Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_0zW8WG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zdqAG32Ee2ONpjCtn835A" name="MultiLayeredCake" generalizations="_0zZ_oG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ag-g232Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zdqAW32Ee2ONpjCtn835A" position="1048.0,607.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zdqAm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0zdqA232Ee2ONpjCtn835A" defaultValue="5" name="COST">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cwaMG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zdqBG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cwaMm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zdqBW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0zdqBm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_0zdqB232Ee2ONpjCtn835A" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0zdqCG32Ee2ONpjCtn835A" name="MultiLayeredCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0ahlkG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zdqCW32Ee2ONpjCtn835A" keyword="create"/>
+      <stereotypes xmi:id="_0zdqCm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aiMoG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zdqC232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zdqDG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zdqDW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aiMoW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zdqDm32Ee2ONpjCtn835A" name="MultiLayeredCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0ag-g232Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zdqD232Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aiMom32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zdqEG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aizsW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zdqEW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aizsm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zdqEm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zdqE232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zdqFG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aizsG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zdqFW32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zdqFm32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aiztG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zdqF232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ajawW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zdqGG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0akB0G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zdqGW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zdqGm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zdqG232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ajawG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zdqHG32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zdqHW32Ee2ONpjCtn835A" name="MultiLayeredCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cWKhG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zdqHm32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zdqH232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zdqIG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zdqIW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cWxkG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zdqIm32Ee2ONpjCtn835A" name="MultiLayeredCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0ag-g232Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0zdqI232Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cWKhW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zdqJG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0zdqJW32Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zll0G32Ee2ONpjCtn835A" comments="_0zjJkG32Ee2ONpjCtn835A" targetConnectionVisual="_0zjJkW32Ee2ONpjCtn835A" name="Order" associationsOut="_0ziigG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ako4G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zll0W32Ee2ONpjCtn835A" position="374.0,339.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zll0m32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0zll0232Ee2ONpjCtn835A" defaultValue="new ArrayList&lt;>()" name="cakes">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cxBQG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zll1G32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cxoUG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zll1W32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0zll1m32Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_0zll1232Ee2ONpjCtn835A" name="Cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0zll2G32Ee2ONpjCtn835A" name="printOrder">
+      <modelElement href="ListExercisesDesignPattern.uml#_0alP8G32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_0zll2W32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zll2m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_0zll2232Ee2ONpjCtn835A" name="addCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cX_sW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_0zll3G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zll3W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_0zll3m32Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cX_sm32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zll3232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0zll4G32Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zsTgG32Ee2ONpjCtn835A" name="SprinklesCake" generalizations="_0zpQMG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0al3AG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zsTgW32Ee2ONpjCtn835A" position="695.0,256.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zsTgm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0zsTg232Ee2ONpjCtn835A" defaultValue="2" name="COST">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cxoUW32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zsThG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cxoU232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zsThW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0zsThm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_0zsTh232Ee2ONpjCtn835A" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0zsTiG32Ee2ONpjCtn835A" name="SprinklesCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0ameEG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zsTiW32Ee2ONpjCtn835A" keyword="create"/>
+      <stereotypes xmi:id="_0zsTim32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0anFIG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zsTi232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zsTjG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zsTjW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0anFIW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zsTjm32Ee2ONpjCtn835A" name="SprinklesCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0al3AG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zsTj232Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0anFIm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zsTkG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ansMW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zsTkW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aoTQG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zsTkm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zsTk232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zsTlG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ansMG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zsTlW32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zsTlm32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aoTQm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zsTl232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aoTRG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zsTmG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ao6UG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zsTmW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zsTmm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zsTm232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aoTQ232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zsTnG32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zsTnW32Ee2ONpjCtn835A" name="SprinklesCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cX_s232Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zsTnm32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zsTn232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zsToG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zsToW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cYmwm32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zsTom32Ee2ONpjCtn835A" name="SprinklesCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0al3AG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0zsTo232Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cX_tG32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zsTpG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0zsTpW32Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0zxMAG32Ee2ONpjCtn835A" name="StrawberryCake" generalizations="_0zv94G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0aphYG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0zxMAW32Ee2ONpjCtn835A" position="672.0,459.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0zxMAm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_0zxMA232Ee2ONpjCtn835A" name="StrawberryCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aphYW32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zxMBG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zxMBW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zxMBm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zxMB232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aqIcW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zxMCG32Ee2ONpjCtn835A" name="StrawberryCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aphYG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zxMCW32Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aqIcm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zxMCm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aqvgW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zxMC232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aqvgm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zxMDG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zxMDW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zxMDm32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aqvgG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zxMD232Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zxMEG32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aqvhG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0zxMEW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0arWkW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0zxMEm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0arWkm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0zxME232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zxMFG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zxMFW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0arWkG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zxMFm32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0zxMF232Ee2ONpjCtn835A" name="StrawberryCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cYmxG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0zxMGG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0zxMGW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0zxMGm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0zxMG232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cYmyG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0zxMHG32Ee2ONpjCtn835A" name="StrawberryCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aphYG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0zxMHW32Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cYmxW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0zxMHm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0zxMH232Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0z1dcG32Ee2ONpjCtn835A" name="VanillaCake" generalizations="_0zzoQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ar9oG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0z1dcW32Ee2ONpjCtn835A" position="731.0,635.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0z1dcm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_0z1dc232Ee2ONpjCtn835A" name="VanillaCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0asksG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0z1ddG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0z1ddW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z1ddm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z1dd232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0asks232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z1deG32Ee2ONpjCtn835A" name="VanillaCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0ar9oG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0z1deW32Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0atLwG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0z1dem32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aty0G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0z1de232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aty0W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0z1dfG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z1dfW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z1dfm32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0atLwW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z1df232Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0z1dgG32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aty0232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0z1dgW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0auZ4G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0z1dgm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0auZ4W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0z1dg232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z1dhG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z1dhW32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0aty1G32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z1dhm32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0z1dh232Ee2ONpjCtn835A" name="VanillaCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cZN0W32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0z1diG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0z1diW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z1dim32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z1di232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cZN1W32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z1djG32Ee2ONpjCtn835A" name="VanillaCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0ar9oG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0z1djW32Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cZN0m32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0z1djm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0z1dj232Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_0z5H0G32Ee2ONpjCtn835A" name="WithSayingCake" generalizations="_0z35sG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0avA8G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0z5H0W32Ee2ONpjCtn835A" position="793.0,821.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_0z5H0m32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_0z5H0232Ee2ONpjCtn835A" name="saying">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cyPYG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0z5H1G32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cy2cG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0z5H1W32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_0z5H1m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_0z5H1232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_0z5H2G32Ee2ONpjCtn835A" name="WithSayingCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0avoAG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0z5H2W32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0z5H2m32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z5H2232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z5H3G32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0awPE232Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z5H3W32Ee2ONpjCtn835A" name="WithSayingCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0avA8G32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0z5H3m32Ee2ONpjCtn835A" name="saying">
+        <modelElement href="ListExercisesDesignPattern.uml#_0awPEG32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0z5H3232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0z5H4G32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_0z5H4W32Ee2ONpjCtn835A" name="getDescription">
+      <modelElement href="ListExercisesDesignPattern.uml#_0aw2IG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0z5H4m32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0axdMW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0z5H4232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0axdMm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0z5H5G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z5H5W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z5H5m32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0axdMG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z5H5232Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0z5H6G32Ee2ONpjCtn835A" name="getCost">
+      <modelElement href="ListExercisesDesignPattern.uml#_0axdNG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_0z5H6W32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ayEQG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_0z5H6m32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ayEQW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_0z5H6232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z5H7G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z5H7W32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0axdNW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z5H7m32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_0z5H7232Ee2ONpjCtn835A" name="WithSayingCake">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cZ04G32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_0z5H8G32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_0z5H8W32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_0z5H8m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_0z5H8232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cZ05W32Ee2ONpjCtn835A"/>
+        <type xmi:id="_0z5H9G32Ee2ONpjCtn835A" name="WithSayingCake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0avA8G32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_0z5H9W32Ee2ONpjCtn835A" name="cake">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cZ04W32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0z5H9m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0z5H9232Ee2ONpjCtn835A" name="Cake">
+          <modelElement href="ListExercisesDesignPattern.uml#_0aZpwG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_0z5H-G32Ee2ONpjCtn835A" name="saying">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cZ04m32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_0z5H-W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_0z5H-m32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

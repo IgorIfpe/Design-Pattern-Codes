@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_0gwJYG32Ee2ONpjCtn835A">
+  <modelElement href="ListExercisesDesignPattern.uml#_0OU8oG32Ee2ONpjCtn835A"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n2P4G32Ee2ONpjCtn835A" name="bakery">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ZqC4G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n2P4W32Ee2ONpjCtn835A" position="50.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n3eAG32Ee2ONpjCtn835A" name="java">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ZttQG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n3eAW32Ee2ONpjCtn835A" position="-115.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n4FEG32Ee2ONpjCtn835A" name="data_mining">
+    <modelElement href="ListExercisesDesignPattern.uml#_0Zzz4G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n4FEW32Ee2ONpjCtn835A" position="196.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n4sIG32Ee2ONpjCtn835A" name="orders">
+    <modelElement href="ListExercisesDesignPattern.uml#_0Z7IoG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n4sIW32Ee2ONpjCtn835A" position="-280.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n6hUG32Ee2ONpjCtn835A" name="websearch">
+    <modelElement href="ListExercisesDesignPattern.uml#_0Z9k4G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n6hUW32Ee2ONpjCtn835A" position="365.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_0n7vcG32Ee2ONpjCtn835A" name="telephone">
+    <modelElement href="ListExercisesDesignPattern.uml#_0Z-zAG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_0n7vcW32Ee2ONpjCtn835A" position="515.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

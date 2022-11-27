@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_0hr9gG32Ee2ONpjCtn835A">
+  <modelElement href="ListExercisesDesignPattern.uml#_0Zzz4G32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_1MSZsG32Ee2ONpjCtn835A" sourceAnchor="95.0,0.0" targetAnchor="69.0,149.0" superClass="_1MTn0G32Ee2ONpjCtn835A" subClass="_1MLsAG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cab8G32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_1RGBMG32Ee2ONpjCtn835A" sourceY="-226" targetX="385" targetY="28"/>
+    <bendpoints xmi:id="_1RGBMW32Ee2ONpjCtn835A" sourceX="-385" sourceY="-226" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_1MSZsW32Ee2ONpjCtn835A" sourceAnchor="100.0,0.0" targetAnchor="69.0,149.0" superClass="_1MTn0G32Ee2ONpjCtn835A" subClass="_1MPWYG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cab8W32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_1RGBMm32Ee2ONpjCtn835A" sourceY="-142" targetX="110" targetY="28"/>
+    <bendpoints xmi:id="_1RGBM232Ee2ONpjCtn835A" sourceX="-110" sourceY="-142" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_1MWrIG32Ee2ONpjCtn835A" sourceAnchor="0.0,78.0" targetAnchor="69.0,149.0" superClass="_1MTn0G32Ee2ONpjCtn835A" subClass="_1MX5QG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cbDAG32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_1RGBNG32Ee2ONpjCtn835A" sourceX="-19" targetX="-5" targetY="458"/>
+    <bendpoints xmi:id="_1RGBNW32Ee2ONpjCtn835A" sourceX="-19" sourceY="-430" targetX="-5" targetY="28"/>
+    <bendpoints xmi:id="_1RGBNm32Ee2ONpjCtn835A" sourceX="-14" sourceY="-430" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_1Ma8kG32Ee2ONpjCtn835A" sourceAnchor="94.0,0.0" targetAnchor="69.0,149.0" superClass="_1MTn0G32Ee2ONpjCtn835A" subClass="_1McxwG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cbqEG32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_1RGBN232Ee2ONpjCtn835A" sourceY="-53" targetX="-166" targetY="28"/>
+    <bendpoints xmi:id="_1RGBOG32Ee2ONpjCtn835A" sourceX="166" sourceY="-53" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_1MfOAG32Ee2ONpjCtn835A" sourceAnchor="99.0,0.0" targetAnchor="69.0,149.0" superClass="_1MTn0G32Ee2ONpjCtn835A" subClass="_1MgcIG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cbqEW32Ee2ONpjCtn835A"/>
+    <bendpoints xmi:id="_1RGoQG32Ee2ONpjCtn835A" sourceY="-27" targetX="-442" targetY="28"/>
+    <bendpoints xmi:id="_1RGoQW32Ee2ONpjCtn835A" sourceX="442" sourceY="-27" targetY="28"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MLsAG32Ee2ONpjCtn835A" name="CSV" generalizations="_1MSZsG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0ayrUG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MLsAW32Ee2ONpjCtn835A" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MLsAm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_1MLsA232Ee2ONpjCtn835A" name="path">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cy2cW32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MLsBG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cy2cm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MLsBW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_1MLsBm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_1MLsB232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_1MLsCG32Ee2ONpjCtn835A" name="CSV">
+      <modelElement href="ListExercisesDesignPattern.uml#_0azSYG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_1MLsCW32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_1MLsCm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MLsC232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_1MLsDG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0az5cW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_1MLsDW32Ee2ONpjCtn835A" name="CSV">
+          <modelElement href="ListExercisesDesignPattern.uml#_0ayrUG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_1MLsDm32Ee2ONpjCtn835A" name="path">
+        <modelElement href="ListExercisesDesignPattern.uml#_0azSYW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1MLsD232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_1MLsEG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_1MLsEW32Ee2ONpjCtn835A" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0az5cm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MLsEm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0az5c232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MLsE232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a0ggG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MLsFG32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MLsFW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MLsFm32Ee2ONpjCtn835A" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a0ggm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MLsF232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a1HkG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MLsGG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a1HkW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MLsGW32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MLsGm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MLsG232Ee2ONpjCtn835A" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a1Hk232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MLsHG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a1uoG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MLsHW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a1uoW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MLsHm32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MLsH232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MLsIG32Ee2ONpjCtn835A" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a1uo232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MLsIW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a2VsG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MLsIm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a2VsW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MLsI232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MLsJG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MPWYG32Ee2ONpjCtn835A" name="DOC" generalizations="_1MSZsW32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0a28wG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MPWYW32Ee2ONpjCtn835A" position="-230.0,-34.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MPWYm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_1MPWY232Ee2ONpjCtn835A" name="path">
+      <modelElement href="ListExercisesDesignPattern.uml#_0czdgG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MPWZG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0czdgW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MPWZW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_1MPWZm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_1MPWZ232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_1MPWaG32Ee2ONpjCtn835A" name="DOC">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a3j0G32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_1MPWaW32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_1MPWam32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MPWa232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_1MPWbG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a3j1G32Ee2ONpjCtn835A"/>
+        <type xmi:id="_1MPWbW32Ee2ONpjCtn835A" name="DOC">
+          <modelElement href="ListExercisesDesignPattern.uml#_0a28wG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_1MPWbm32Ee2ONpjCtn835A" name="path">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a3j0W32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1MPWb232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_1MPWcG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_1MPWcW32Ee2ONpjCtn835A" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a4K4G32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MPWcm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a4K4W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MPWc232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a4K4m32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MPWdG32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MPWdW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MPWdm32Ee2ONpjCtn835A" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a4K5G32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MPWd232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a4x8G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MPWeG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a4x8W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MPWeW32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MPWem32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MPWe232Ee2ONpjCtn835A" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a4x8232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MPWfG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a5ZAG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MPWfW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a5ZAW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MPWfm32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MPWf232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MPWgG32Ee2ONpjCtn835A" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a5ZA232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MPWgW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a5ZBG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MPWgm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a6AEG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MPWg232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MPWhG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MTn0G32Ee2ONpjCtn835A" name="DocumentTemplate" abstractClass="true" subclassedBy="_1MSZsG32Ee2ONpjCtn835A _1MSZsW32Ee2ONpjCtn835A _1MWrIG32Ee2ONpjCtn835A _1Ma8kG32Ee2ONpjCtn835A _1MfOAG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0a6AEm32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MTn0W32Ee2ONpjCtn835A" position="-309.0,-353.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MTn0m32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_1MTn0232Ee2ONpjCtn835A" abstractOperation="true" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a6nIG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn1G32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MTn1W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MTn1m32Ee2ONpjCtn835A" abstractOperation="true" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a6nIW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn1232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MTn2G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MTn2W32Ee2ONpjCtn835A" abstractOperation="true" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a6nIm32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn2m32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MTn2232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MTn3G32Ee2ONpjCtn835A" abstractOperation="true" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a6nI232Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn3W32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MTn3m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MTn3232Ee2ONpjCtn835A" name="analyzeData">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a6nJG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn4G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MTn4W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MTn4m32Ee2ONpjCtn835A" name="sendReports">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a7OMG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MTn4232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MTn5G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MVdAG32Ee2ONpjCtn835A" name="Main">
+    <modelElement href="ListExercisesDesignPattern.uml#_0a7OMW32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MVdAW32Ee2ONpjCtn835A" position="302.0,-39.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MVdAm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_1MVdA232Ee2ONpjCtn835A" name="main" staticOperation="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a71QG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_1MVdBG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MVdBW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_1MVdBm32Ee2ONpjCtn835A" name="args">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a71QW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1MVdB232Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_1MVdCG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MX5QG32Ee2ONpjCtn835A" name="PDF" generalizations="_1MWrIG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0a8cUG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MX5QW32Ee2ONpjCtn835A" position="-226.0,176.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MX5Qm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_1MX5Q232Ee2ONpjCtn835A" name="path">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c0EkG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MX5RG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c0EkW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MX5RW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_1MX5Rm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_1MX5R232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_1MX5SG32Ee2ONpjCtn835A" name="PDF">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a9DYG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_1MX5SW32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_1MX5Sm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MX5S232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_1MX5TG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9DZG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_1MX5TW32Ee2ONpjCtn835A" name="PDF">
+          <modelElement href="ListExercisesDesignPattern.uml#_0a8cUG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_1MX5Tm32Ee2ONpjCtn835A" name="path">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9DYW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1MX5T232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_1MX5UG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_1MX5UW32Ee2ONpjCtn835A" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a9DZW32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MX5Um32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9qcG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MX5U232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9qcW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MX5VG32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MX5VW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MX5Vm32Ee2ONpjCtn835A" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a9qc232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MX5V232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9qdG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MX5WG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a9qdW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MX5WW32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MX5Wm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MX5W232Ee2ONpjCtn835A" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a-RgG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MX5XG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a-RgW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MX5XW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a-Rgm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MX5Xm32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MX5X232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MX5YG32Ee2ONpjCtn835A" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0a-RhG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MX5YW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a-4kG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MX5Ym32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0a-4kW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MX5Y232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MX5ZG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1McxwG32Ee2ONpjCtn835A" name="TXT" generalizations="_1Ma8kG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0a_foG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1McxwW32Ee2ONpjCtn835A" position="-500.0,-123.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1Mcxwm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_1Mcxw232Ee2ONpjCtn835A" name="path">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c0roG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1McxxG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c0roW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1McxxW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_1Mcxxm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_1Mcxx232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_1McxyG32Ee2ONpjCtn835A" name="TXT">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bAGsG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_1McxyW32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_1Mcxym32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1Mcxy232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_1McxzG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bAGtG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_1McxzW32Ee2ONpjCtn835A" name="TXT">
+          <modelElement href="ListExercisesDesignPattern.uml#_0a_foG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_1Mcxzm32Ee2ONpjCtn835A" name="path">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bAGsW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1Mcxz232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_1Mcx0G32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_1Mcx0W32Ee2ONpjCtn835A" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bAtwG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1Mcx0m32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bAtwW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1Mcx0232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bAtwm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1Mcx1G32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1Mcx1W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1Mcx1m32Ee2ONpjCtn835A" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bAtxG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1Mcx1232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bAtxW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1Mcx2G32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bBU0G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1Mcx2W32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1Mcx2m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1Mcx2232Ee2ONpjCtn835A" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bBU0m32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1Mcx3G32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bBU0232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1Mcx3W32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bBU1G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1Mcx3m32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1Mcx3232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1Mcx4G32Ee2ONpjCtn835A" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bB74G32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1Mcx4W32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bB74W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1Mcx4m32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bB74m32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1Mcx4232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1Mcx5G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1MgcIG32Ee2ONpjCtn835A" name="XML" generalizations="_1MfOAG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bCi8G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_1MgcIW32Ee2ONpjCtn835A" position="-781.0,-149.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_1MgcIm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_1MgcI232Ee2ONpjCtn835A" name="path">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c0rom32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MgcJG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c0ro232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MgcJW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_1MgcJm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_1MgcJ232Ee2ONpjCtn835A" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_1MgcKG32Ee2ONpjCtn835A" name="XML">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bDKAG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_1MgcKW32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_1MgcKm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_1MgcK232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_1MgcLG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bDKBG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_1MgcLW32Ee2ONpjCtn835A" name="XML">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bCi8G32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_1MgcLm32Ee2ONpjCtn835A" name="path">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bDKAW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_1MgcL232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_1MgcMG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_1MgcMW32Ee2ONpjCtn835A" name="openFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bDKBW32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MgcMm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bDxEG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MgcM232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bDxEW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MgcNG32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MgcNW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MgcNm32Ee2ONpjCtn835A" name="closeFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bDxE232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MgcN232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bEYIG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MgcOG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bEYIW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MgcOW32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MgcOm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MgcO232Ee2ONpjCtn835A" name="extract">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bEYI232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MgcPG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bE_MG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MgcPW32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bE_MW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MgcPm32Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MgcP232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_1MgcQG32Ee2ONpjCtn835A" name="convertFile">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bE_M232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_1MgcQW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bFmQG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_1MgcQm32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bFmQW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_1MgcQ232Ee2ONpjCtn835A" label="~"/>
+      <cardinality xmi:id="_1MgcRG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

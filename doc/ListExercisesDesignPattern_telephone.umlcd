@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_0iTokG32Ee2ONpjCtn835A">
+  <modelElement href="ListExercisesDesignPattern.uml#_0Z-zAG32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_22mmcW32Ee2ONpjCtn835A" targetItem="_22nNgG32Ee2ONpjCtn835A" sourceItem="_22mmcG32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_22t7MG32Ee2ONpjCtn835A" sourceAnchor="15.0,0.0" targetAnchor="177.0,137.0" target="_22nNgG32Ee2ONpjCtn835A" source="_22wXcG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dOUQW32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_228ksG32Ee2ONpjCtn835A" position="170.0,170.0"/>
+    <stereotypes xmi:id="_22vJUG32Ee2ONpjCtn835A" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dO7UG32Ee2ONpjCtn835A"/>
+    </stereotypes>
+    <nameVisual xmi:id="_22uiQ232Ee2ONpjCtn835A" text="">
+      <visualProperties xmi:id="_26irQG32Ee2ONpjCtn835A" position="-38.99999999999998,-8.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_22uiRG32Ee2ONpjCtn835A" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dOUQm32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26iEMm32Ee2ONpjCtn835A" position="-16.999999999999996,-46.0"/>
+      <visibility xmi:id="_22vwYW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22vwYG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_22uiRW32Ee2ONpjCtn835A" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c15wm32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26irQW32Ee2ONpjCtn835A" position="2.0000000000000426,1.0"/>
+      <visibility xmi:id="_22vwY232Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_22vwYm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_22uiQG32Ee2ONpjCtn835A" sourceAnchor="243.0,0.0" targetAnchor="91.0,90.0" dashed="true" superClass="_22ppwG32Ee2ONpjCtn835A" subClass="_22wXcG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0cfUcG32Ee2ONpjCtn835A"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_22uiQm32Ee2ONpjCtn835A" targetItem="_22wXcG32Ee2ONpjCtn835A" sourceItem="_22uiQW32Ee2ONpjCtn835A"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_22zawG32Ee2ONpjCtn835A" sourceAnchor="291.0,0.0" targetAnchor="82.0,137.0" target="_22nNgG32Ee2ONpjCtn835A" source="_224TQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dO7UW32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_228ksW32Ee2ONpjCtn835A" position="190.0,190.0"/>
+    <stereotypes xmi:id="_2213Am32Ee2ONpjCtn835A" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dPiYG32Ee2ONpjCtn835A"/>
+    </stereotypes>
+    <nameVisual xmi:id="_221P8G32Ee2ONpjCtn835A" text="">
+      <visualProperties xmi:id="_26jSUG32Ee2ONpjCtn835A" position="-78.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2213AG32Ee2ONpjCtn835A" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dO7Um32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26irQm32Ee2ONpjCtn835A" position="-17.0,-46.0"/>
+      <visibility xmi:id="_223FIW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_223FIG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2213AW32Ee2ONpjCtn835A" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c2g0W32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26jSUW32Ee2ONpjCtn835A" position="2.0,1.0"/>
+      <visibility xmi:id="_223sMG32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_223FIm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_220B0G32Ee2ONpjCtn835A" sourceAnchor="153.0,0.0" targetAnchor="90.0,0.0" target="_22ppwG32Ee2ONpjCtn835A" source="_224TQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dPiYW32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_228ksm32Ee2ONpjCtn835A" position="210.0,210.0"/>
+    <bendpoints xmi:id="_26iEMG32Ee2ONpjCtn835A" sourceY="-207" targetX="-460" targetY="-62"/>
+    <bendpoints xmi:id="_26iEMW32Ee2ONpjCtn835A" sourceX="460" sourceY="-207" targetY="-62"/>
+    <stereotypes xmi:id="_2213Bm32Ee2ONpjCtn835A" name="Reference">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dQJcG32Ee2ONpjCtn835A"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2213A232Ee2ONpjCtn835A" text="">
+      <visualProperties xmi:id="_26j5YG32Ee2ONpjCtn835A" position="5.166666666666714,-18.999999999999886"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2213BG32Ee2ONpjCtn835A" aggregationKind="NONE" name="">
+      <modelElement href="ListExercisesDesignPattern.uml#_0dPiYm32Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26jSUm32Ee2ONpjCtn835A" position="-17.0,-46.0"/>
+      <visibility xmi:id="_223sM232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_223sMm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2213BW32Ee2ONpjCtn835A" aggregationKind="NONE" name="observers" navigable="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c2g0232Ee2ONpjCtn835A"/>
+      <visualProperties xmi:id="_26j5YW32Ee2ONpjCtn835A" position="-65.5,-59.999999999999886"/>
+      <visibility xmi:id="_223sNW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_223sNG32Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_220o4G32Ee2ONpjCtn835A" sourceAnchor="15.0,0.0" targetAnchor="237.0,147.0" dashed="true" superClass="_22q34G32Ee2ONpjCtn835A" subClass="_224TQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0chJoG32Ee2ONpjCtn835A"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_220o4m32Ee2ONpjCtn835A" targetItem="_224TQG32Ee2ONpjCtn835A" sourceItem="_220o4W32Ee2ONpjCtn835A"/>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_22mmcG32Ee2ONpjCtn835A" sourceConnectionVisual="_22mmcW32Ee2ONpjCtn835A" text="Store a phone number, digit-by-digit" item="_22nNgG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dI0sm32Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_22uiQW32Ee2ONpjCtn835A" sourceConnectionVisual="_22uiQm32Ee2ONpjCtn835A" text="Prints things out to the screen, when needed&#xD;&#xA;Printing to the screen:&#xD;&#xA; System.out.println(&quot;hello&quot;);" item="_22wXcG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dI0s232Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_220o4W32Ee2ONpjCtn835A" sourceConnectionVisual="_220o4m32Ee2ONpjCtn835A" text="Mimic the data input ability of a physical phone's keypad;&#xD;&#xA;however, here we're just sending it fake digits." item="_224TQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0dI0tG32Ee2ONpjCtn835A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_22lYUG32Ee2ONpjCtn835A" name="Main">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bLs4G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_22lYUW32Ee2ONpjCtn835A" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22lYUm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_22lYU232Ee2ONpjCtn835A" name="main" staticOperation="true">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bLs4W32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22lYVG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22lYVW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22lYVm32Ee2ONpjCtn835A" name="args">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bLs4m32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22lYV232Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_22lYWG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_22nNgG32Ee2ONpjCtn835A" comments="_22mmcG32Ee2ONpjCtn835A" targetConnectionVisual="_22mmcW32Ee2ONpjCtn835A" name="PhoneModel" associationsIn="_22t7MG32Ee2ONpjCtn835A _22zawG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bMT8G32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_22nNgW32Ee2ONpjCtn835A" position="-150.0,-236.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22nNgm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_22nNg232Ee2ONpjCtn835A" defaultValue="new ArrayList&lt;>()" name="digits">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c1Ssm32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22nNhG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22nNhW32Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_22nNhm32Ee2ONpjCtn835A" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_22nNh232Ee2ONpjCtn835A" name="addDigit">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bMT8W32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22nNiG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22nNiW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22nNim32Ee2ONpjCtn835A" name="newDigit">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bM7AG32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22nNi232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_22nNjG32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22nNjW32Ee2ONpjCtn835A" name="getLastNumber">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bM7AW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22nNjm32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22nNj232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22nNkG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bM7Am32Ee2ONpjCtn835A"/>
+        <type xmi:id="_22nNkW32Ee2ONpjCtn835A" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_22nNkm32Ee2ONpjCtn835A" name="toString">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bM7A232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_22nNk232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bM7BW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22nNlG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bNiEG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_22nNlW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22nNlm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22nNl232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bM7BG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_22nNmG32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_22nNmW32Ee2ONpjCtn835A" name="getDigitsToString">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bNiEm32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22nNmm32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_22nNm232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22nNnG32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bNiE232Ee2ONpjCtn835A"/>
+        <type xmi:id="_22nNnW32Ee2ONpjCtn835A" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_22ppwG32Ee2ONpjCtn835A" name="PhoneObserver" associationsIn="_220B0G32Ee2ONpjCtn835A" subclassedBy="_22uiQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_22ppwW32Ee2ONpjCtn835A" position="164.0,-189.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22ppwm32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_22ppw232Ee2ONpjCtn835A" name="printRecentNumber">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bOJIW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22ppxG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22ppxW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22ppxm32Ee2ONpjCtn835A" name="printAllNumbersCall">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bOJIm32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22ppx232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22ppyG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_22q34G32Ee2ONpjCtn835A" name="PhoneSubject" subclassedBy="_220o4G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bOwMG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_22q34W32Ee2ONpjCtn835A" position="-581.0,-246.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22q34m32Ee2ONpjCtn835A" label="+"/>
+    <operations xmi:id="_22q34232Ee2ONpjCtn835A" name="simulateKeyPresses">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bOwMW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22q35G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22q35W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22q35m32Ee2ONpjCtn835A" name="numKeyPresses">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bOwMm32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22q35232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_22q36G32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22q36W32Ee2ONpjCtn835A" name="updateObserver">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bPXQG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22q36m32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22q36232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22q37G32Ee2ONpjCtn835A" name="notifyObservers">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bPXQW32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22q37W32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22q37m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22q37232Ee2ONpjCtn835A" name="attach">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cetYG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22q38G32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22q38W32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22q38m32Ee2ONpjCtn835A" name="observer">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cetYW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22re8G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_22re8W32Ee2ONpjCtn835A" name="PhoneObserver">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22re8m32Ee2ONpjCtn835A" name="detach">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cetYm32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_22re8232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22re9G32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22re9W32Ee2ONpjCtn835A" name="observer">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cetY232Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22re9m32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_22re9232Ee2ONpjCtn835A" name="PhoneObserver">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_22wXcG32Ee2ONpjCtn835A" comments="_22uiQW32Ee2ONpjCtn835A" targetConnectionVisual="_22uiQm32Ee2ONpjCtn835A" name="Screen" associationsOut="_22t7MG32Ee2ONpjCtn835A" generalizations="_22uiQG32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bP-UG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_22wXcW32Ee2ONpjCtn835A" position="12.0,159.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22wXcm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_22wXc232Ee2ONpjCtn835A" name="model">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c15wm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_22wXdG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c2g0G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_22wXdW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_22wXdm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_22wXd232Ee2ONpjCtn835A" name="PhoneModel">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bMT8G32Ee2ONpjCtn835A"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_22wXeG32Ee2ONpjCtn835A" name="printRecentNumber">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bQlYG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_22wXeW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bQlYW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22wXem32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bRMcG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_22wXe232Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22wXfG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22wXfW32Ee2ONpjCtn835A" name="printAllNumbersCall">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bRMcm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_22wXfm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bRMc232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22wXf232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bRzgG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_22wXgG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22wXgW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22wXgm32Ee2ONpjCtn835A" name="Screen">
+      <modelElement href="ListExercisesDesignPattern.uml#_0cf7gG32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_22wXg232Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_22wXhG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_22wXhW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22wXhm32Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cf7hG32Ee2ONpjCtn835A"/>
+        <type xmi:id="_22wXh232Ee2ONpjCtn835A" name="Screen">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bP-UG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_22wXiG32Ee2ONpjCtn835A" name="model">
+        <modelElement href="ListExercisesDesignPattern.uml#_0cf7gW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_22wXiW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_22wXim32Ee2ONpjCtn835A" name="PhoneModel">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bMT8G32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_224TQG32Ee2ONpjCtn835A" comments="_220o4W32Ee2ONpjCtn835A" targetConnectionVisual="_220o4m32Ee2ONpjCtn835A" name="KeyPad" associationsOut="_22zawG32Ee2ONpjCtn835A _220B0G32Ee2ONpjCtn835A" generalizations="_220o4G32Ee2ONpjCtn835A">
+    <modelElement href="ListExercisesDesignPattern.uml#_0bTBoG32Ee2ONpjCtn835A"/>
+    <visualProperties xmi:id="_224TQW32Ee2ONpjCtn835A" position="-359.0,-44.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_224TQm32Ee2ONpjCtn835A" label="+"/>
+    <attributes xmi:id="_224TQ232Ee2ONpjCtn835A" name="model">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c2g0W32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224TRG32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c2g0m32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TRW32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_224TRm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <type xmi:id="_224TR232Ee2ONpjCtn835A" name="PhoneModel">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bMT8G32Ee2ONpjCtn835A"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_224TSG32Ee2ONpjCtn835A" name="observers">
+      <modelElement href="ListExercisesDesignPattern.uml#_0c2g0232Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224TSW32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0c3H4G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TSm32Ee2ONpjCtn835A" label="-"/>
+      <cardinality xmi:id="_224TS232Ee2ONpjCtn835A" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_224TTG32Ee2ONpjCtn835A" name="PhoneObserver">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_224TTW32Ee2ONpjCtn835A" name="simulateKeyPresses">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bTosG32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224TTm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bUPwW32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_224TT232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bUPwm32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TUG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224TUW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_224TUm32Ee2ONpjCtn835A" name="numKeyPresses">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bUPwG32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_224TU232Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_224TVG32Ee2ONpjCtn835A" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_224TVW32Ee2ONpjCtn835A" name="notifyObservers">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bU20G32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224TVm32Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bU20W32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_224TV232Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bVd4G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TWG32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224TWW32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_224TWm32Ee2ONpjCtn835A" name="updateObserver">
+      <modelElement href="ListExercisesDesignPattern.uml#_0bVd4m32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224TW232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bVd4232Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_224TXG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0bVd5G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TXW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224TXm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_224TX232Ee2ONpjCtn835A" name="KeyPad">
+      <modelElement href="ListExercisesDesignPattern.uml#_0chJoW32Ee2ONpjCtn835A"/>
+      <keywords xmi:id="_224TYG32Ee2ONpjCtn835A" keyword="create"/>
+      <visibility xmi:id="_224TYW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224TYm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_224TY232Ee2ONpjCtn835A">
+        <modelElement href="ListExercisesDesignPattern.uml#_0chJpW32Ee2ONpjCtn835A"/>
+        <type xmi:id="_224TZG32Ee2ONpjCtn835A" name="KeyPad">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bTBoG32Ee2ONpjCtn835A"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_224TZW32Ee2ONpjCtn835A" name="model">
+        <modelElement href="ListExercisesDesignPattern.uml#_0chJom32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_224TZm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_224TZ232Ee2ONpjCtn835A" name="PhoneModel">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bMT8G32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_224TaG32Ee2ONpjCtn835A" name="addObserver">
+      <modelElement href="ListExercisesDesignPattern.uml#_0chwsG32Ee2ONpjCtn835A"/>
+      <visibility xmi:id="_224TaW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224Tam32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_224Ta232Ee2ONpjCtn835A" name="observer">
+        <modelElement href="ListExercisesDesignPattern.uml#_0chwsW32Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_224TbG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_224TbW32Ee2ONpjCtn835A" name="PhoneObserver">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_224Tbm32Ee2ONpjCtn835A" name="attach">
+      <modelElement href="ListExercisesDesignPattern.uml#_0chwsm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224Tb232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0chwtG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_224TcG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ciXwG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TcW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224Tcm32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_224Tc232Ee2ONpjCtn835A" name="observer">
+        <modelElement href="ListExercisesDesignPattern.uml#_0chws232Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_224TdG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_224TdW32Ee2ONpjCtn835A" name="PhoneObserver">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_224Tdm32Ee2ONpjCtn835A" name="detach">
+      <modelElement href="ListExercisesDesignPattern.uml#_0ciXwm32Ee2ONpjCtn835A"/>
+      <stereotypes xmi:id="_224Td232Ee2ONpjCtn835A" name="LegacyStyledElement">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ciXxG32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <stereotypes xmi:id="_224TeG32Ee2ONpjCtn835A" name="Annotations">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ci-0G32Ee2ONpjCtn835A"/>
+      </stereotypes>
+      <visibility xmi:id="_224TeW32Ee2ONpjCtn835A" label="+"/>
+      <cardinality xmi:id="_224Tem32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+      <parameters xmi:id="_224Te232Ee2ONpjCtn835A" name="observer">
+        <modelElement href="ListExercisesDesignPattern.uml#_0ciXw232Ee2ONpjCtn835A"/>
+        <cardinality xmi:id="_224TfG32Ee2ONpjCtn835A" label="1" max="1" min="1"/>
+        <type xmi:id="_224TfW32Ee2ONpjCtn835A" name="PhoneObserver">
+          <modelElement href="ListExercisesDesignPattern.uml#_0bOJIG32Ee2ONpjCtn835A"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
