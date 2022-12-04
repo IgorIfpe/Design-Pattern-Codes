@@ -32,6 +32,6 @@ class StoreComponentTest {
 		box.addComponent(smartphone_case);
 		box.addComponent(mini_box);
 		
-		assertEquals(207.0, box.getTotalValue());
+		assertEquals(206.75, box.getTotalValue());
 	}
 }
