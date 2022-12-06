@@ -14,10 +14,7 @@ public class Main {
 		docs.add(new TXT("myTxt.txt"));
 		
 		for (DocumentTemplate doc: docs) {
-			doc.openFile();
-			doc.analyzeData();
-			doc.closeFile();
-			
+			doc.run();
 			System.out.println("\n");
 		}
 	}

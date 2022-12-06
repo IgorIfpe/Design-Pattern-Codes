@@ -14,4 +14,13 @@ public abstract class DocumentTemplate {
 	public void sendReports() {
 		System.out.println("Reports was sended.");
 	}
+	
+	public final void run() {
+		openFile();
+		extract();
+		convertFile();
+		analyzeData();
+		sendReports();
+		closeFile();
+	}
 }
